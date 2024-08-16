@@ -5,7 +5,7 @@ GVHD: ThS. Đinh Xuân Trường
 10 cc : Tối đa 9 điểm.
  - Làm bài tập (có thể code ) sẽ tăng 1 điểm.
  
-10 Làm nhóm phân ngẫu nhiên ( mỗi tuần 1 nhóm thuyết trình về chủ đề liên quan đến 1 chương nào đó).Random thứ tự, chủ đề thuyết trình, sau đó thầy sẽ nhận xét.
+10 Làm nhóm phân ngẫu nhiên ( mỗi tuần 1 nhóm thuyết trình về chủ đề liên quan đến 1 chương nào đó).Random thứ tự, chủ đề thuyết trình, sau đó thầy sẽ nhận xét. Điểm này chia ra điểm cá nhân là thuyết trình, điểm báo cáo là nhóm .)
 
 20 
  - 10 điểm kiểm tra( tùy hình thức, có thể trắc nghiêm, code, viết).
